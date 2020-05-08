@@ -1,5 +1,4 @@
 from flask import Flask,jsonify
-import json
 import requests
 
 # First we get the latest news in Germany with the help of NewsAPI (https://newsapi.org/)
